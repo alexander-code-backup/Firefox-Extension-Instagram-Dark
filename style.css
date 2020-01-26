@@ -1,0 +1,149 @@
+:root {
+    --color-background: #222222;
+    --color-background-shadow: #4a4a4a;
+    --color-dark: #1F232A;
+    --color-text: #efefef;
+    --color-bar: #1a1a1a;
+    --color-textdark: #777474;
+    --color-button: #404040;
+    --color-icon: #E1E1E1;
+}
+
+* {
+    scrollbar-width: thin;
+    scrollbar-color: var(--color-dark) var(--color-background-shadow);
+}
+
+body, main, nav, ._lz6s, .DPiy6, ._3MPWk, article, .mt3GC, footer, .wW1cu, .drKGC, .KL4Bh, .piCib, .gr27e, .VULZ-, .eiUFA, .Igw0E.IwRSH.eGOV_._4EzTm.XfCBB.g6RW6 {
+    background-color: var(--color-background) !important;
+}
+._8-yf5 > path {
+    fill: var(--color-icon) !important;
+}
+.SvO5t, .cq2ai, ._2eEhX {
+    display:none !important;
+}
+.Di7vw{
+    background-color: var(--color-background-shadow) !important;
+    border: solid 1px var(--color-background-shadow) !important;
+}
+.x3qfX, .x3qfX::placeholder {
+    color: var(--color-text) !important;
+    background-color: var(--color-background-shadow) !important;
+}
+.XTCLo {
+    border: solid 1px var(--color-background-shadow) !important;
+    border-radius: inherit !important;
+}
+.vtWDf, .hUQsm {
+    background-color: var(--color-bar) !important;
+    border: inherit !important;
+}
+.T5hFd {
+    border-color: transparent transparent #1a1a1a !important;
+}
+.Igw0E.IwRSH.eGOV_._4EzTm._5VUwz.ZUqME > div {
+    height: 400px !important;
+}
+.gmFkV, .jQgLo, ._7UhW9.PIoXz.qyrsm.KV-D4.uL8Hv, .Igw0E.rBNOH.eGOV_.ybXk5._4EzTm, .nJAzx, .yWX7d._8A5w5, .Ypffh, .HoLwm, .YFq-A, .yrJyr, .TlrDj, .Nm9Fw, .cqXBL, .C4VMK > span, .O4GlU, .KV-D4, .kHYQv, .h-aRd, .Ap253, .QXEMa, label, .ufStW, .izU2O, .m82CD {
+    color: var(--color-text) !important;
+}
+.QzzMF.Igw0E.IwRSH.eGOV_.vwCYk * {
+    color: var(--color-text) !important;
+}
+._8-yf5 {
+    fill: var(--color-icon) !important;
+}
+.ixdEe * {
+    color: var(--color-text) !important;
+}
+.zwlfE * {
+    color: var(--color-text) !important;
+}
+.T-jvg {
+    color: var(--color-text) !important;
+    border-top: 1px solid var(--color-text) !important;
+}
+.fx7hk {
+    border: inherit !important;
+}
+.coreSpriteDesktopPhotoGridActive {
+    background-position: -246px -337px !important;
+}
+.coreSpriteDesktopProfileIGTVActive {
+    background-position: -274px -337px !important;
+}
+.coreSpriteDesktopProfileSaveActive {
+    background-position: -393px -258px !important;
+}
+.coreSpriteDesktopProfileTaggedActive {
+    background-position: -302px -337px !important;
+}
+._4l6NB, ._0T_XJ::before, ._0T_XJ::after {
+    background-image: inherit !important;
+}
+.tHaIX, .-qQT3:hover {
+    background-color: inherit;
+}
+.coreSpritePagingChevron{
+    background-position: -182px -319px !important;
+    height: 30px !important;
+    width: 30px !important;
+}
+.LA45P {
+    -webkit-transform: scaleX(-1);
+}
+.Kf8kP {
+    -webkit-transform: initial !important;
+}
+form * {
+    color: var(--color-text) !important;
+}
+.leaflet-popup-content-wrapper, .fuQUr:hover {
+    background-color: var(--color-bar) !important;
+}
+.-HRM- {
+    border-left-color: white !important;
+}
+.drKGC::after {
+    border-color: transparent transparent #1a1a1a !important;
+}
+.JvDyy {
+    background-color: var(--color-bar) !important;
+}
+nav * {
+    color: var(--color-text) !important;
+}
+._9MPbZ {
+    border-bottom: solid 1px #fff !important;
+}
+.emrdq.X381g * {
+    color: var(--color-text) !important;
+}
+.glyphsSpriteError__outline__24__grey_9 {
+    background-position: -285px -298px !important;
+}
+._2hvTZ, .i24fI, .-wiOT.RO68f.M5V28, .j_2Hd._4eaDf.BkYbe.RO68f.M5V28, .j_2Hd, textarea {
+    background-color: var(--color-background-shadow) !important;
+}
+input {
+  filter: none;
+}
+.coreSpriteLoggedOutWordmark {
+    background-position: -340px -215px !important;
+    height: 44px !important;
+    width: 43px !important;
+}
+.BI4qX {
+    padding-left: inherit !important;
+    padding-right: inherit !important;
+}
+.FuWoR {
+    background-color: white !important;
+}
+._4eaDf {
+    padding: 4px 0px !important;
+}
+.glyphsSpriteSettings__outline__24__grey_9 {
+    background-position: -338px -325px !important;
+}
