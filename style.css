@@ -14,7 +14,7 @@
     scrollbar-color: var(--color-dark) var(--color-background-shadow);
 }
 
-body, main, nav, ._lz6s, .DPiy6, ._3MPWk, article, .mt3GC, footer, .wW1cu, .drKGC, .KL4Bh, .piCib, .gr27e, .VULZ-, .eiUFA, .Igw0E.IwRSH.eGOV_._4EzTm.XfCBB.g6RW6 {
+body, main, nav, ._lz6s, .DPiy6, ._3MPWk, article, .mt3GC, footer, .wW1cu, .drKGC, .KL4Bh, .piCib, .gr27e, .VULZ-, .eiUFA, .Igw0E.IwRSH.eGOV_._4EzTm.XfCBB.g6RW6, ._6xe7A, .HYpXt.pbNvD, .lDRO1, .jIHp4, ._4Kbb_, .HcJZg, .GBPOY, .-cx-PRIVATE-SidebarLayout__contentWrapper__ {
     background-color: var(--color-background) !important;
 }
 ._8-yf5 > path {
@@ -45,7 +45,7 @@ body, main, nav, ._lz6s, .DPiy6, ._3MPWk, article, .mt3GC, footer, .wW1cu, .drKG
 .Igw0E.IwRSH.eGOV_._4EzTm._5VUwz.ZUqME > div {
     height: 400px !important;
 }
-.gmFkV, .jQgLo, ._7UhW9.PIoXz.qyrsm.KV-D4.uL8Hv, .Igw0E.rBNOH.eGOV_.ybXk5._4EzTm, .nJAzx, .yWX7d._8A5w5, .Ypffh, .HoLwm, .YFq-A, .yrJyr, .TlrDj, .Nm9Fw, .cqXBL, .C4VMK > span, .O4GlU, .KV-D4, .kHYQv, .h-aRd, .Ap253, .QXEMa, label, .ufStW, .izU2O, .m82CD {
+.gmFkV, .jQgLo, ._7UhW9.PIoXz.qyrsm.KV-D4.uL8Hv, .Igw0E.rBNOH.eGOV_.ybXk5._4EzTm, .nJAzx, .yWX7d._8A5w5, .Ypffh, .HoLwm, .YFq-A, .yrJyr, .TlrDj, .Nm9Fw, .cqXBL, .C4VMK > span, .O4GlU, .KV-D4, .kHYQv, .h-aRd, .Ap253, .QXEMa, label, .ufStW, .izU2O, .m82CD, ._0imsa, ._0imsa:visited, ._8A5w5, a._8A5w5, a._8A5w5:visited, ._8324F, ._4UXK0, .vwCYk, .rkEop, .VIsJD, .FPmhX, ._7kTyW, .-cx-PRIVATE-NavBar__username__, .-cx-PRIVATE-SidebarLayout__pageContent__ h2, .-cx-PRIVATE-JobsIntro__title__, .-cx-PRIVATE-SidebarLayout__pageContent__ h3, .-cx-PRIVATE-SidebarLayout__pageContent__ h1, .-cx-PRIVATE-SidebarLayout__pageContent__ {
     color: var(--color-text) !important;
 }
 .QzzMF.Igw0E.IwRSH.eGOV_.vwCYk * {
@@ -83,7 +83,7 @@ body, main, nav, ._lz6s, .DPiy6, ._3MPWk, article, .mt3GC, footer, .wW1cu, .drKG
     background-image: inherit !important;
 }
 .tHaIX, .-qQT3:hover {
-    background-color: inherit;
+    background-color: inherit !important;
 }
 .coreSpritePagingChevron{
     background-position: -182px -319px !important;
@@ -108,11 +108,14 @@ form * {
 .drKGC::after {
     border-color: transparent transparent #1a1a1a !important;
 }
-.JvDyy {
+.JvDyy, .-cx-PRIVATE-NavBar__root__, .hztqj, .hztqj > option {
     background-color: var(--color-bar) !important;
 }
 nav * {
     color: var(--color-text) !important;
+}
+.uL8Hv a, a:visited, .LFGs8, .-cx-PRIVATE-SidebarLayout__pageContent__ a {
+    color: #0081ff;
 }
 ._9MPbZ {
     border-bottom: solid 1px #fff !important;
@@ -123,7 +126,7 @@ nav * {
 .glyphsSpriteError__outline__24__grey_9 {
     background-position: -285px -298px !important;
 }
-._2hvTZ, .i24fI, .-wiOT.RO68f.M5V28, .j_2Hd._4eaDf.BkYbe.RO68f.M5V28, .j_2Hd, textarea {
+._2hvTZ, .i24fI, .-wiOT.RO68f.M5V28, .j_2Hd._4eaDf.BkYbe.RO68f.M5V28, .j_2Hd {
     background-color: var(--color-background-shadow) !important;
 }
 input {
@@ -146,4 +149,24 @@ input {
 }
 .glyphsSpriteSettings__outline__24__grey_9 {
     background-position: -338px -325px !important;
+}
+.eiUFA {
+    border: solid 1px var(--color-bar) !important;
+}
+.d-Vzv {
+    border: 1.5px solid white !important;
+}
+._NyRp {
+    background-color: white;
+    border-radius: 8px;
+}
+.HVWg4 .-qQT3:last-child {
+    display: none !important;
+}
+.-cx-PRIVATE-NavBar__logo__ {
+    background-image: url(https://www.vippng.com/png/full/52-523194_all-png-images-vector-instagram-name-logo-white.png);
+    height: 50px;
+    top: inherit;
+    width: 140px;
+    background-repeat: no-repeat;
 }

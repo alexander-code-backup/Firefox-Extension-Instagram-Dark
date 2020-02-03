@@ -3,7 +3,7 @@
   "manifest_version": 2,
   "name": "Instagram Dark",
   "author": "Johnendz",
-  "version": "1.0",
+  "version": "1.2",
   "homepage_url": "https://github.com/johnendz",
 
   "content_scripts": [
