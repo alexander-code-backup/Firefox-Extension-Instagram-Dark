@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Instagram logo" src="https://i.imgur.com/Q6I4BIR.png" width="200px" />
+    <img alt="Instagram logo" src="https://i.imgur.com/Qoaimyp.png" width="250px" />
 </h1>
 
 <h4 align="center">
