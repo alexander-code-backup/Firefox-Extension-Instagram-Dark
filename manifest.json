@@ -1,10 +1,9 @@
 {
-  "description": "Ativar modo escuro no Instagram",
+  "description": "Ativar tema escuro no Instagram",
   "manifest_version": 2,
   "name": "Instagram Dark",
   "author": "Johnendz",
-  "version": "1.4",
-  "homepage_url": "https://github.com/johnendz",
+  "version": "1.5",
 
   "content_scripts": [
     {
