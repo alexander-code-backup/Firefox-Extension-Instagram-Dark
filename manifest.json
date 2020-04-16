@@ -3,7 +3,7 @@
   "manifest_version": 2,
   "name": "Instagram Dark",
   "author": "Johnendz",
-  "version": "1.5",
+  "version": "1.6",
 
   "content_scripts": [
     {

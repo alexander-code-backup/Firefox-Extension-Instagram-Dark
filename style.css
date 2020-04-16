@@ -14,7 +14,7 @@
     scrollbar-color: var(--color-dark) var(--color-background-shadow);
 }
 
-body, main, nav, ._lz6s, .DPiy6, ._3MPWk, article, .mt3GC, footer, .wW1cu, .drKGC, .KL4Bh, .piCib, .gr27e, .VULZ-, .eiUFA, .Igw0E.IwRSH.eGOV_._4EzTm.XfCBB.g6RW6, ._6xe7A, .HYpXt.pbNvD, .lDRO1, .jIHp4, ._4Kbb_, .HcJZg, .GBPOY, .-cx-PRIVATE-SidebarLayout__contentWrapper__, .vwCYk.Igw0E {
+body, main, nav, ._lz6s, .DPiy6, ._3MPWk, article, .mt3GC, footer, .wW1cu, .drKGC, .KL4Bh, .piCib, .gr27e, .VULZ-, .eiUFA, .Igw0E.IwRSH.eGOV_._4EzTm.XfCBB.g6RW6, ._6xe7A, .HYpXt.pbNvD, .lDRO1, .jIHp4, ._4Kbb_, .HcJZg, .GBPOY, .-cx-PRIVATE-SidebarLayout__contentWrapper__, .vwCYk.Igw0E, ._6E_wP {
     background-color: var(--color-background) !important;
 }
 ._8-yf5 > path {
@@ -45,7 +45,7 @@ body, main, nav, ._lz6s, .DPiy6, ._3MPWk, article, .mt3GC, footer, .wW1cu, .drKG
 .Igw0E.IwRSH.eGOV_._4EzTm._5VUwz.ZUqME > div {
     height: 400px !important;
 }
-.gmFkV, .jQgLo, ._7UhW9.PIoXz.qyrsm.KV-D4.uL8Hv, .Igw0E.rBNOH.eGOV_.ybXk5._4EzTm, .nJAzx, .yWX7d._8A5w5, .Ypffh, .HoLwm, .YFq-A, .yrJyr, .TlrDj, .Nm9Fw, .cqXBL, .C4VMK > span, .O4GlU, .KV-D4, .kHYQv, .h-aRd, .Ap253, .QXEMa, label, .ufStW, .izU2O, .m82CD, ._0imsa, ._0imsa:visited, ._8A5w5, a._8A5w5, a._8A5w5:visited, ._8324F, ._4UXK0, .vwCYk, .rkEop, .VIsJD, .FPmhX, ._7kTyW, .-cx-PRIVATE-NavBar__username__, .-cx-PRIVATE-SidebarLayout__pageContent__ h2, .-cx-PRIVATE-JobsIntro__title__, .-cx-PRIVATE-SidebarLayout__pageContent__ h3, .-cx-PRIVATE-SidebarLayout__pageContent__ h1, .-cx-PRIVATE-SidebarLayout__pageContent__, .JLbVX, .aMwHK, .aMwHK:visited, .-cx-PRIVATE-ErrorPage__errorContainer__, .eXle2 {
+.gmFkV, .jQgLo, ._7UhW9.PIoXz.qyrsm.KV-D4.uL8Hv, .Igw0E.rBNOH.eGOV_.ybXk5._4EzTm, .nJAzx, .yWX7d._8A5w5, .Ypffh, .HoLwm, .YFq-A, .yrJyr, .TlrDj, .Nm9Fw, .cqXBL, .C4VMK > span, .O4GlU, .KV-D4, .kHYQv, .h-aRd, .Ap253, .QXEMa, label, .ufStW, .izU2O, .m82CD, ._0imsa, ._0imsa:visited, ._8A5w5, a._8A5w5, a._8A5w5:visited, ._8324F, ._4UXK0, .vwCYk, .rkEop, .VIsJD, .FPmhX, ._7kTyW, .-cx-PRIVATE-NavBar__username__, .-cx-PRIVATE-SidebarLayout__pageContent__ h2, .-cx-PRIVATE-JobsIntro__title__, .-cx-PRIVATE-SidebarLayout__pageContent__ h3, .-cx-PRIVATE-SidebarLayout__pageContent__ h1, .-cx-PRIVATE-SidebarLayout__pageContent__, .JLbVX, .aMwHK, .aMwHK:visited, .-cx-PRIVATE-ErrorPage__errorContainer__, .eXle2, .vqgRc {
     color: var(--color-text) !important;
 }
 .QzzMF.Igw0E.IwRSH.eGOV_.vwCYk * {
@@ -86,9 +86,12 @@ body, main, nav, ._lz6s, .DPiy6, ._3MPWk, article, .mt3GC, footer, .wW1cu, .drKG
     background-color: inherit !important;
 }
 .coreSpritePagingChevron{
-    background-position: -182px -319px !important;
+    background-position: -258px -319px !important;
     height: 30px !important;
     width: 30px !important;
+}
+._6CZji {
+    right: -9px !important;
 }
 .LA45P {
     -webkit-transform: scaleX(-1);
@@ -99,7 +102,7 @@ body, main, nav, ._lz6s, .DPiy6, ._3MPWk, article, .mt3GC, footer, .wW1cu, .drKG
 form * {
     color: var(--color-text) !important;
 }
-.leaflet-popup-content-wrapper, .fuQUr:hover, .jju9v, .Fh4P2, .ZL6TI, .PJ4k2, .WidCF, .KQA-S {
+.leaflet-popup-content-wrapper, .fuQUr:hover, .jju9v, .Fh4P2, .ZL6TI, .PJ4k2, .WidCF, .KQA-S, .ZyFrc {
     background-color: var(--color-bar) !important;
 }
 .-HRM- {
@@ -172,4 +175,25 @@ input {
 }
 .pbNvD {
     border: 1px solid white;
+}
+/* chat */
+.pV7Qt._6Rvw2.Igw0E.IwRSH.YBx95.ybXk5._4EzTm.i0EQd {
+	max-width: inherit !important;
+	border: inherit !important;
+}
+.oYYFH {
+	background-color: var(--color-background) !important;
+	padding: inherit !important;
+}
+.m7ETg, .Igw0E.IwRSH>textarea, .j_2Hd {
+	color: var(--color-text) !important;
+}
+.S-mcP {
+	background-color: var(--color-bar) !important;
+}
+.N9abW, .QOqBd.Igw0E.IwRSH.eGOV_._4EzTm {
+	background-color: var(--color-background) !important;
+}
+.QOqBd {
+	background-color: var(--color-background-shadow) !important;
 }
