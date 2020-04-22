@@ -1,9 +1,9 @@
 {
-  "description": "Ativar tema escuro no Instagram",
+  "description": "Ativar tema escuro no Instagram | Enable dark theme in Instagram",
   "manifest_version": 2,
-  "name": "Instagram Dark",
+  "name": "Instagram Dark (Tema Escuro)",
   "author": "Johnendz",
-  "version": "1.6",
+  "version": "1.7",
 
   "content_scripts": [
     {
@@ -15,11 +15,8 @@
   ],
   
   "icons": {
-    "32": "icons/32.png",
-    "48": "icons/48.png",
+	"32": "icons/32.png",
     "64": "icons/64.png",
-    "96": "icons/96.png",
-    "128": "icons/128.png",
-    "256": "icons/256.png"
+    "128": "icons/128.png"
   }
 }
