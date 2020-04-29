@@ -3,13 +3,13 @@
   "manifest_version": 2,
   "name": "Instagram Dark (Tema Escuro)",
   "author": "Johnendz",
-  "version": "1.7",
+  "version": "2.0",
 
   "content_scripts": [
     {
       "matches": ["*://www.instagram.com/*"],
       "exclude_matches": ["*://www.instagram.com/developer/*"],
-      "css":["style.css"],
+      "css":["style.minified.css"],
 	  "run_at": "document_start"
     }
   ],
