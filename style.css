@@ -4,12 +4,24 @@
     --color-background-dark: #1a1a1a;
     --color-text: #efefef;
     --color-text-shadow: #b3b3b3;
-    --color-icon: #919191;
 }
 
 * {
     scrollbar-width: thin;
     scrollbar-color: #1F232A #4a4a4a;
+}
+
+::-webkit-scrollbar {
+    width: 6px!important;
+    height: 6px!important;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgba(0,0,0,.2);
+}
+
+::-webkit-scrollbar-track {
+    background: hsla(0,0%,100%,.1);
 }
 
 body, main {
@@ -81,7 +93,7 @@ article, .eLAPa,  .jdnLC, .HaS-3, .WidCF, .KQA-S {
 ._8-yf5 {
     fill: var(--color-text) !important;
 }
-.Ypffh {
+.Ypffh, .RucPH, .RucPH:visited, .sqdOP.yWX7d._8A5w5.ZIAjV {
 	color: var(--color-text) !important;
 }
 .Nm9Fw, ._8Pl3R, .C4VMK * {
@@ -117,7 +129,11 @@ article, .eLAPa,  .jdnLC, .HaS-3, .WidCF, .KQA-S {
 
 /* estilo das sugestoões */
 
-._6E_wP, .NP414, .NP414::before, .tHaIX {
+.gmFkV, .gmFkV:visited, .gmFkV:active, .gmFkV:focus, .gmFkV:hover {
+	color: var(--color-text) !important;
+}/* nome do perfil em cima das sugestões */
+
+._6E_wP, .NP414, .NP414::before, .tHaIX, ._8UZ6e {
 	background-color: var(--color-background) !important;
 }
 ._41KYi {
@@ -128,17 +144,23 @@ article, .eLAPa,  .jdnLC, .HaS-3, .WidCF, .KQA-S {
     height: 30px !important;
     width: 30px !important;
 }
-/* fim do estilo das sugestoões */
-
-/* estilo dos stories e sugestões para você */
-
-.DPiy6 {
-	background-color: var(--color-background) !important;
-}
-.vqgRc, .KV-D4 {
+.KV-D4, .Rebts, .FPmhX.Qj3-a, .FPmhX.Qj3-a:visited {
 	color: var(--color-text) !important;
 }
-/* fim do estilo dos stories e sugestões para você */
+._7UhW9.PIoXz.qyrsm.KV-D4.uL8Hv {
+	color: var(--color-text-shadow) !important;
+}         
+/* fim do estilo das sugestoões */
+
+/* estilo dos stories */
+
+.VideM {
+	background: var(--color-background-dark) !important;
+}
+.eebAO {
+	color: var(--color-text) !important;
+}
+/* fim do estilo dos stories */
 
 /* estilo do perfil */
 
@@ -171,7 +193,7 @@ article, .eLAPa,  .jdnLC, .HaS-3, .WidCF, .KQA-S {
 .m7ETg, .Igw0E.IwRSH>textarea, .j_2Hd {
 	color: var(--color-text) !important;
 }
-.S-mcP, ._6FEQj, .cU2Ue, .AvhYw {
+.S-mcP, ._6FEQj, .cU2Ue, .AvhYw, .DPiy6 {
 	background-color: var(--color-background-dark) !important;
 }
 .N9abW, .QOqBd.Igw0E.IwRSH.eGOV_._4EzTm, .oYYFH {
