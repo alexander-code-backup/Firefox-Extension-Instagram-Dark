@@ -140,7 +140,7 @@ article, .eLAPa,  .jdnLC, .HaS-3, .WidCF, .KQA-S {
 	background-color: var(--color-background-dark) !important;
 }
 .coreSpritePagingChevron{
-    background-position: -228px -319px !important;
+    background-position: -130px -100px !important;
     height: 30px !important;
     width: 30px !important;
 }
@@ -190,13 +190,13 @@ article, .eLAPa,  .jdnLC, .HaS-3, .WidCF, .KQA-S {
 .oYYFH {
 	padding: inherit !important;
 }
-.m7ETg, .Igw0E.IwRSH>textarea, .j_2Hd {
+.m7ETg, .Igw0E.IwRSH>textarea, .j_2Hd, .m82CD {
 	color: var(--color-text) !important;
 }
-.S-mcP, ._6FEQj, .cU2Ue, .AvhYw, .DPiy6 {
+.S-mcP, ._6FEQj, .cU2Ue, .AvhYw, .DPiy6, .N9abW {
 	background-color: var(--color-background-dark) !important;
 }
-.N9abW, .QOqBd.Igw0E.IwRSH.eGOV_._4EzTm, .oYYFH {
+.QOqBd.Igw0E.IwRSH.eGOV_._4EzTm, .oYYFH {
 	background-color: var(--color-background) !important;
 }
 .QOqBd, .-qQT3:hover {
@@ -234,3 +234,10 @@ article, .eLAPa,  .jdnLC, .HaS-3, .WidCF, .KQA-S {
 	background: var(--color-background-dark) !important;
 }
 /* fim do estilo das configurações *
+
+/* estilo das notificacoes */
+
+._1XyCr {
+	background: var(--color-background-dark) !important;
+}
+/* fim do estilo das notificacoes *
