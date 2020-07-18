@@ -1,7 +1,3 @@
-<h1 align="center">
-    <img alt="Instagram logo" src="https://i.imgur.com/Qoaimyp.png" width="250px" />
-</h1>
-
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/amo/users/instagram-tema-escuro?color=orange">
     
@@ -18,10 +14,4 @@
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-orange">
-</p>
-
-<br>
-
-<p align="center">
-  <img alt="Captura de Tela" width="1024" src="https://addons.cdn.mozilla.net/user-media/previews/full/232/232379.png?modified=1581637342">
 </p>
