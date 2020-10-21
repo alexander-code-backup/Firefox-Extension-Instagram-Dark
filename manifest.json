@@ -1,9 +1,9 @@
 {
   "description": "Tenha uma nova experiência no Instragram | Have a new experience on Instagram",
   "manifest_version": 2,
-  "name": "Dark Mode for Instragram",
+  "name": "Instragram Dark (Tema Escuro)",
   "author": "Johnendz",
-  "version": "3.0",
+  "version": "3.2",
 
   "content_scripts": [
     {
