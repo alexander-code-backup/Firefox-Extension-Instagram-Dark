@@ -119,7 +119,6 @@ article, .eLAPa,  .jdnLC, .HaS-3, .WidCF, .KQA-S {
 /* estilo das opções das postagens */
 
 .pbNvD.fPMEg {
-	background-color: var(--color-background) !important;
 	border: 1px solid white;
 }
 .HoLwm {
@@ -186,6 +185,12 @@ article, .eLAPa,  .jdnLC, .HaS-3, .WidCF, .KQA-S {
 	background: var(--color-background) !important;
 }
 /* fim do estilo do perfil */
+
+/* estilo do seguir/seguidores */
+
+._6xe7A, .pbNvD.fPMEg {
+	background: var(--color-background-dark) !important;
+}
 
 /* estilo do chat */
 
