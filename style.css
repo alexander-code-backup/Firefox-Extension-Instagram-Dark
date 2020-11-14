@@ -84,10 +84,10 @@ nav * {
 
 /* estilo das postagens */
 
-article, .eLAPa,  .jdnLC, .HaS-3, .WidCF, .KQA-S {
+article,  .jdnLC, .HaS-3, .WidCF, .KQA-S {
 	background-color: var(--color-background) !important;
 }
-.VcOAj, .qfAOE, .kAlZ6, .HE3mO, .EIuhb, .RdURl, .OzqB_, ._8VIOK, .u9F97 {
+.VcOAj, .qfAOE, .kAlZ6, .HE3mO, .EIuhb, .RdURl, .OzqB_, ._8VIOK, .u9F97, .eLAPa {
 	background-color: var(--color-background-dark) !important;
 }
 ._8-yf5 {
@@ -120,6 +120,7 @@ article, .eLAPa,  .jdnLC, .HaS-3, .WidCF, .KQA-S {
 
 .pbNvD.fPMEg {
 	border: 1px solid white;
+	border-radius: 12px;
 }
 .HoLwm {
 	color: var(--color-text) !important;
@@ -153,11 +154,14 @@ article, .eLAPa,  .jdnLC, .HaS-3, .WidCF, .KQA-S {
 
 /* estilo dos stories */
 
-.VideM {
+.VideM, ._2dbep {
 	background: var(--color-background-dark) !important;
 }
 .eebAO {
 	color: var(--color-text) !important;
+}
+._7JZQt, ._-9WeM {
+	background: var(--color-background-shadow) !important;
 }
 /* fim do estilo dos stories */
 
@@ -252,3 +256,13 @@ article, .eLAPa,  .jdnLC, .HaS-3, .WidCF, .KQA-S {
 	background: var(--color-background-dark) !important;
 }
 /* fim do estilo das notificacoes *
+
+/* estilo do trocar de conta */
+
+.TNiR1 {
+	color: var(--color-text) !important;
+}
+.KV-D4 {
+	color: var(--color-text-shadow) !important;
+}
+/* fim do estilo do trocar de conta *
