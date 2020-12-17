@@ -179,7 +179,7 @@ article,  .jdnLC, .HaS-3, .WidCF, .KQA-S {
 .-fzfL {
 	background: white !important;
 }
-.t30g8 {
+.t30g8, .M-jxE, .jLuN9 {
 	background-color: var(--color-background) !important;
 }
 .m41U8 {
@@ -187,6 +187,10 @@ article,  .jdnLC, .HaS-3, .WidCF, .KQA-S {
 }
 .jju9v {
 	background: var(--color-background) !important;
+}
+.IalUJ {
+    height: 10px;
+	width: 10px;
 }
 /* fim do estilo do perfil */
 
@@ -208,7 +212,7 @@ article,  .jdnLC, .HaS-3, .WidCF, .KQA-S {
 .m7ETg, .Igw0E.IwRSH>textarea, .j_2Hd, .m82CD {
 	color: var(--color-text) !important;
 }
-.S-mcP, ._6FEQj, .cU2Ue, .AvhYw, .DPiy6, .N9abW {
+.S-mcP, ._6FEQj, .cU2Ue, .AvhYw, .DPiy6, .N9abW, .oNO81 {
 	background-color: var(--color-background-dark) !important;
 }
 .QOqBd.Igw0E.IwRSH.eGOV_._4EzTm, .oYYFH {
@@ -265,4 +269,8 @@ article,  .jdnLC, .HaS-3, .WidCF, .KQA-S {
 .KV-D4 {
 	color: var(--color-text-shadow) !important;
 }
-/* fim do estilo do trocar de conta *
+/* fim do estilo do trocar de conta */
+
+.eShHj.sqdOP.L3NKy._8A5w5 {
+	background: var(--color-background-dark) !important;
+}
