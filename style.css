@@ -67,17 +67,23 @@ nav * {
 .x3qfX, .x3qfX::placeholder {
     color: var(--color-text) !important;
 }
-.JvDyy {
+.JvDyy, ._lz6s {
     background-color: var(--color-background-dark) !important;
 }
-.drKGC::after {
-    border-color: transparent transparent #1a1a1a !important;
+.drKGC {
+	background-color: var(--color-background-dark) !important;
+	border-radius: 15px !important;
+	top: 43px !important;
+}
+
+.fuqBx {
+	border-radius: 15px !important;
 }
 /* fim do estilo da navbar */
 
 /* estilo das postagens */
 
-.VcOAj, .qfAOE, .kAlZ6, .HE3mO, .EIuhb, .RdURl, .OzqB_, ._8VIOK, .u9F97, .eLAPa {
+.VcOAj, .qfAOE, .kAlZ6, .HE3mO, .EIuhb, .RdURl, .OzqB_, ._8VIOK, .u9F97, .eLAPa, .ltEKP .QBXjJ, .jdnLC, .HaS-3, .s2MYR {
 	background-color: var(--color-background-dark) !important;
 }
 ._8-yf5 {
@@ -104,13 +110,35 @@ nav * {
 .XQXOT > li {
 	display: none;
 }
+.sH9wk, .JyscU .Slqrh, .MhyEU {
+	border-top: 1px solid var(--color-background) !important;
+}
+.UE9AK {
+	border-bottom: 1px solid var(--color-background) !important;
+}
+.JyscU.ePUX4 .eo2As, .JyscU.ePUX4 .UE9AK {
+    border-left: inherit !important;
+}
+.ltEKP .QBXjJ {
+    border: inherit !important;
+}
+.Igw0E.IwRSH.eGOV_._4EzTm.IM32b {
+	display: none !important;
+}
+article._8Rm4L {
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.52), 0 3px 6px rgba(0, 0, 0, 0.2);
+	background-color: var(--color-background-dark) !important;
+}
 /* fim do estilo das postagens */
 
 /* estilo das opções das postagens */
 
 .pbNvD.fPMEg {
-	border: 1px solid white;
+	border: 1px solid #fff !important;
 	border-radius: 12px;
+}
+.aOOlW {
+	border-top: 1px solid var(--color-background-shadow) !important;
 }
 .HoLwm {
 	color: var(--color-text) !important;
@@ -261,10 +289,22 @@ nav * {
 }
 /* fim do estilo do trocar de conta */
 
+/* estilo do vamos começar */
+
+.glyphsSpriteFacebook_circle__outline__24__grey_9, .glyphsSpriteCamera__outline__24__grey_9{
+	filter: invert(1);
+}
+.-wdIA {
+    border-color: #fff;
+}
+/* fim do estilo do vamos começar */
+
 .eShHj.sqdOP.L3NKy._8A5w5 {
 	background: var(--color-background-dark) !important;
 }
-
+.pV7Qt {
+	border: solid 1px var(--color-background-shadow) !important;
+}
 /* these two fix an actual Instagram bug, where usernames under a story circle need
 an extra pixel to avoid clipping descending characters (letters p,q,g,y,j)*/
 .ku8Bn {
@@ -407,61 +447,6 @@ article._8Rm4L {
 	box-shadow: 0px 0px 0 2px #191919;
 }
 
-/* navigation bar */
- ._lz6s.Hz2lF,
-/* Home post */
- article._8Rm4L {
-	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.52), 0 3px 6px rgba(0, 0, 0, 0.2);
-}
-
- html,
-/* Home post */
- article._8Rm4L,
-/* navigation bar */
- ._lz6s.Hz2lF,
-/* report options */
- ._1XyCr,
-/* search results menu */
- .fuqBx,
-/* username hover card */
- .DPiy6.Igw0E.IwRSH.eGOV_._4EzTm,
- article.M9sTE,
-/* nav bar user menu */
- ._01UL2,
- div.uo5MA,
-/* chat messages bg */
- .DPiy6.Igw0E.IwRSH.eGOV_.vwCYk,
-/* chats list header */
- .S-mcP,
-/* chats list footer */
- .Igw0E.rBNOH.YBx95._4EzTm.HVWg4,
-/* private account header */
- ._4Kbb_._54f4m,
-/* suggestions item */
- .Igw0E.rBNOH.eGOV_._4EzTm.L-sTb.HcJZg,
-/* suggestions */
- .tHaIX.Igw0E.IwRSH.eGOV_.vwCYk.HcJZg,
-/* chats list hidden bg */
- div.N9abW,
- footer,
-/* activity menu */
- .Fh4P2,
-/* get mobile app promo */
- div.JLbVX,
-/* settings main panel */
- .BvMHM.EzUlV.XfvCs,
- .NP414.ccgHY.GZkEI,
-/* home suggested friends box */
- div._8Rm4L,
-/* live chat */
- header.inl0k,
- section.gwgGR,
-/* followers and following modal */
- .PZuss,
-/* Direct "You blocked Instagrammer." */
- .tHaIX.Igw0E.rBNOH.YBx95._4EzTm {
-	background-color: #080808;
-}
 
 /* comment report btn, profile options btn*/
  button.wpO6b,
@@ -489,13 +474,6 @@ article._8Rm4L {
  section,
  header {
 	border-color: #262626;
-}
-
-/* search results menu button hovered */
- .yCE8d.JvDyy,
-/* current chat */
- .QOqBd.Igw0E.IwRSH.eGOV_._4EzTm {
-	background-color: #1a1a1a;
 }
 
  .custom-stories-button {
@@ -534,23 +512,7 @@ article._8Rm4L {
 	border-color: #262626;
 }
 
-/* logo */
- .s4Iyt,
- .custom-stories-button,
- #toggle-dark-theme-button img,
-/* nav bar user menu arrow */
- .AvhYw.nLL4f,
-/* suggestions paging button */
- .Kf8kP.coreSpritePagingChevron,
- .glyphsSpriteDirect__outline__96,
- .felixSpriteProfileChannelNullState,
- .glyphsSpriteCamera__outline__24__grey_9,
- .coreSpriteTaggedNull,
- .glyphsSpriteFriend_Follow,
- .coreSpriteDropdownArrowGrey9,
- .coreSpriteSaveNull {
-	filter: invert(1);
-}
+
 
 /* overlay blocker */
  .RnEpo.Yx5HN {
