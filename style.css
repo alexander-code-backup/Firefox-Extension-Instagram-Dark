@@ -274,7 +274,7 @@ article._8Rm4L {
 
 /* estilo das notificacoes */
 
-._1XyCr {
+._1XyCr, .tCibT {
 	background: var(--color-background-dark) !important;
 }
 /* fim do estilo das notificacoes *
@@ -385,11 +385,6 @@ an extra pixel to avoid clipping descending characters (letters p,q,g,y,j)*/
 	box-shadow: 0px 0px 0 2px #f1f1f1;
 }
 
-/* prev & next stories buttons */
-.POSa_.oevZr,
-._6CZji.oevZr {
-	display: none;
-}
 
 /* main content container */
 ._1SP8R.C3uDN.j9XKR {
