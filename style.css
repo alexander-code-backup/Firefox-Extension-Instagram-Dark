@@ -178,6 +178,9 @@ article._8Rm4L {
 ._7JZQt, ._-9WeM {
 	background: var(--color-background-shadow) !important;
 }
+.tUtVM {
+	background-color: var(--color-background-dark) !important;
+}
 /* fim do estilo dos stories */
 
 /* estilo do perfil */
@@ -188,7 +191,7 @@ article._8Rm4L {
 .-nal3, .-nal3:active, .-nal3:visited, .-nal3:hover, .-vDIg *, .c-Vw8, .MMzan.KV-D4 {
 	color: var(--color-text-shadow) !important;
 }
-.T-jvg {
+.T-jvg, .fx7hk {
 	border-top: inherit !important;
 }
 .-fzfL {
@@ -206,6 +209,9 @@ article._8Rm4L {
 .IalUJ {
     height: 10px;
 	width: 10px;
+}
+._4bSq7 {
+    margin-bottom: 4px !important;
 }
 /* fim do estilo do perfil */
 
