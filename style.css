@@ -30,7 +30,7 @@ body, main {
 
 /* estilo da pagina inicial */
 
-.gr27e, footer {
+.gr27e, footer, .AHCwU, .s311c {
 	background-color: var(--color-background) !important;
 }
 .coreSpriteLoggedOutWordmark {
@@ -228,6 +228,9 @@ a._9VEo1.T-jvg {
 }
 .snXeX {
     border-bottom: 1px solid #fff !important;
+}
+._4Kbb_ {
+	background: var(--color-background-dark) !important;
 }
 /* fim do estilo do perfil */
 
